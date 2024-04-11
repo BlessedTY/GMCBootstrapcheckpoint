@@ -1,0 +1,95 @@
+.body{
+margin:0;
+padding:0;
+
+}
+
+.topdiv{
+    background-color: white;
+}
+
+nav img{
+    margin: 20px 0 20px 60px;
+    height: 120px;
+    width: 200px;
+}
+
+.traveltitle{
+    font-size: 30px;
+    font-weight: bold;
+    color: blue;
+
+}
+
+.ul1{
+    margin: 0 0 0 300px
+}
+
+.formsearch{
+    margin: 0 0 0 50px;
+    width: 300px;
+    height: 30px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+
+.Realityimg{
+    background-image: url(travelbckgrd.jpg);
+    height: 430px;
+    padding: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+}
+
+.texting{
+    color: white;
+    margin left: 400px;
+    margin right: 400px;
+}
+
+.btn{
+    color: white;
+    background-color: rgb(13, 34, 13);
+    border-color: white;
+    border-radius: 9px;
+    border-style: ridge;
+}
+
+.destinatontitle{
+justify-content: center;
+}
+
+.cont{
+    margin-top: 10px;
+    height: 200px;
+}
+
+.genrow{
+    height: 1000px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.col1{
+    background-image: url(paris2.jpg);
+    height: 3000px;
+    background-repeat: no-repeat;
+}
+
+.col2{
+    background-image: url(newyork.jpg);
+    height: 2000px;
+    background-repeat: no-repeat;
+}
+
+.col3{
+    background-image: url(london.jpg);
+    height: 4000px;
+    background-repeat: no-repeat;
+}
+
+.btn2{
+    justify-content: center;
+}
